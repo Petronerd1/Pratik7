@@ -1,0 +1,17 @@
+C:\Users\ULAŞ\source\repos\Copy\TextNumber\bin\Debug\net5.0-windows\TextNumber.exe
+C:\Users\ULAŞ\source\repos\Copy\TextNumber\bin\Debug\net5.0-windows\TextNumber.deps.json
+C:\Users\ULAŞ\source\repos\Copy\TextNumber\bin\Debug\net5.0-windows\TextNumber.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\Copy\TextNumber\bin\Debug\net5.0-windows\TextNumber.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\Copy\TextNumber\bin\Debug\net5.0-windows\TextNumber.dll
+C:\Users\ULAŞ\source\repos\Copy\TextNumber\bin\Debug\net5.0-windows\ref\TextNumber.dll
+C:\Users\ULAŞ\source\repos\Copy\TextNumber\bin\Debug\net5.0-windows\TextNumber.pdb
+C:\Users\ULAŞ\source\repos\Copy\TextNumber\obj\Debug\net5.0-windows\TextNumber.Form1.resources
+C:\Users\ULAŞ\source\repos\Copy\TextNumber\obj\Debug\net5.0-windows\TextNumber.csproj.GenerateResource.cache
+C:\Users\ULAŞ\source\repos\Copy\TextNumber\obj\Debug\net5.0-windows\TextNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\Copy\TextNumber\obj\Debug\net5.0-windows\TextNumber.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\Copy\TextNumber\obj\Debug\net5.0-windows\TextNumber.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\Copy\TextNumber\obj\Debug\net5.0-windows\TextNumber.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\Copy\TextNumber\obj\Debug\net5.0-windows\TextNumber.dll
+C:\Users\ULAŞ\source\repos\Copy\TextNumber\obj\Debug\net5.0-windows\ref\TextNumber.dll
+C:\Users\ULAŞ\source\repos\Copy\TextNumber\obj\Debug\net5.0-windows\TextNumber.pdb
+C:\Users\ULAŞ\source\repos\Copy\TextNumber\obj\Debug\net5.0-windows\TextNumber.genruntimeconfig.cache

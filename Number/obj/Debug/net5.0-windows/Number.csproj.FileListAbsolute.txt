@@ -1,0 +1,17 @@
+C:\Users\ULAŞ\source\repos\Copy\Number\bin\Debug\net5.0-windows\Number.exe
+C:\Users\ULAŞ\source\repos\Copy\Number\bin\Debug\net5.0-windows\Number.deps.json
+C:\Users\ULAŞ\source\repos\Copy\Number\bin\Debug\net5.0-windows\Number.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\Copy\Number\bin\Debug\net5.0-windows\Number.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\Copy\Number\bin\Debug\net5.0-windows\Number.dll
+C:\Users\ULAŞ\source\repos\Copy\Number\bin\Debug\net5.0-windows\ref\Number.dll
+C:\Users\ULAŞ\source\repos\Copy\Number\bin\Debug\net5.0-windows\Number.pdb
+C:\Users\ULAŞ\source\repos\Copy\Number\obj\Debug\net5.0-windows\Number.Form1.resources
+C:\Users\ULAŞ\source\repos\Copy\Number\obj\Debug\net5.0-windows\Number.csproj.GenerateResource.cache
+C:\Users\ULAŞ\source\repos\Copy\Number\obj\Debug\net5.0-windows\Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\Copy\Number\obj\Debug\net5.0-windows\Number.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\Copy\Number\obj\Debug\net5.0-windows\Number.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\Copy\Number\obj\Debug\net5.0-windows\Number.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\Copy\Number\obj\Debug\net5.0-windows\Number.dll
+C:\Users\ULAŞ\source\repos\Copy\Number\obj\Debug\net5.0-windows\ref\Number.dll
+C:\Users\ULAŞ\source\repos\Copy\Number\obj\Debug\net5.0-windows\Number.pdb
+C:\Users\ULAŞ\source\repos\Copy\Number\obj\Debug\net5.0-windows\Number.genruntimeconfig.cache

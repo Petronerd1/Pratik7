@@ -1,0 +1,17 @@
+C:\Users\ULAŞ\source\repos\Copy\RadioBtn\bin\Debug\net5.0-windows\RadioBtn.exe
+C:\Users\ULAŞ\source\repos\Copy\RadioBtn\bin\Debug\net5.0-windows\RadioBtn.deps.json
+C:\Users\ULAŞ\source\repos\Copy\RadioBtn\bin\Debug\net5.0-windows\RadioBtn.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\Copy\RadioBtn\bin\Debug\net5.0-windows\RadioBtn.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\Copy\RadioBtn\bin\Debug\net5.0-windows\RadioBtn.dll
+C:\Users\ULAŞ\source\repos\Copy\RadioBtn\bin\Debug\net5.0-windows\ref\RadioBtn.dll
+C:\Users\ULAŞ\source\repos\Copy\RadioBtn\bin\Debug\net5.0-windows\RadioBtn.pdb
+C:\Users\ULAŞ\source\repos\Copy\RadioBtn\obj\Debug\net5.0-windows\RadioBtn.Form1.resources
+C:\Users\ULAŞ\source\repos\Copy\RadioBtn\obj\Debug\net5.0-windows\RadioBtn.csproj.GenerateResource.cache
+C:\Users\ULAŞ\source\repos\Copy\RadioBtn\obj\Debug\net5.0-windows\RadioBtn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\Copy\RadioBtn\obj\Debug\net5.0-windows\RadioBtn.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\Copy\RadioBtn\obj\Debug\net5.0-windows\RadioBtn.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\Copy\RadioBtn\obj\Debug\net5.0-windows\RadioBtn.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\Copy\RadioBtn\obj\Debug\net5.0-windows\RadioBtn.dll
+C:\Users\ULAŞ\source\repos\Copy\RadioBtn\obj\Debug\net5.0-windows\ref\RadioBtn.dll
+C:\Users\ULAŞ\source\repos\Copy\RadioBtn\obj\Debug\net5.0-windows\RadioBtn.pdb
+C:\Users\ULAŞ\source\repos\Copy\RadioBtn\obj\Debug\net5.0-windows\RadioBtn.genruntimeconfig.cache

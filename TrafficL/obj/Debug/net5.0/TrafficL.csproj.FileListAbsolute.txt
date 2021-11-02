@@ -1,0 +1,16 @@
+C:\Users\ULAŞ\source\repos\Copy\TrafficL\bin\Debug\net5.0\TrafficL.exe
+C:\Users\ULAŞ\source\repos\Copy\TrafficL\bin\Debug\net5.0\TrafficL.deps.json
+C:\Users\ULAŞ\source\repos\Copy\TrafficL\bin\Debug\net5.0\TrafficL.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\Copy\TrafficL\bin\Debug\net5.0\TrafficL.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\Copy\TrafficL\bin\Debug\net5.0\TrafficL.dll
+C:\Users\ULAŞ\source\repos\Copy\TrafficL\bin\Debug\net5.0\ref\TrafficL.dll
+C:\Users\ULAŞ\source\repos\Copy\TrafficL\bin\Debug\net5.0\TrafficL.pdb
+C:\Users\ULAŞ\source\repos\Copy\TrafficL\obj\Debug\net5.0\TrafficL.csproj.AssemblyReference.cache
+C:\Users\ULAŞ\source\repos\Copy\TrafficL\obj\Debug\net5.0\TrafficL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\Copy\TrafficL\obj\Debug\net5.0\TrafficL.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\Copy\TrafficL\obj\Debug\net5.0\TrafficL.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\Copy\TrafficL\obj\Debug\net5.0\TrafficL.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\Copy\TrafficL\obj\Debug\net5.0\TrafficL.dll
+C:\Users\ULAŞ\source\repos\Copy\TrafficL\obj\Debug\net5.0\ref\TrafficL.dll
+C:\Users\ULAŞ\source\repos\Copy\TrafficL\obj\Debug\net5.0\TrafficL.pdb
+C:\Users\ULAŞ\source\repos\Copy\TrafficL\obj\Debug\net5.0\TrafficL.genruntimeconfig.cache
